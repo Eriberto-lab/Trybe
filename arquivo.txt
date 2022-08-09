@@ -1,3 +1,10 @@
+trybe-skills-updates
 JavaScript
 React
 NodeJS
+Unix
+Bash
+Git
+HTML
+CSS
+
